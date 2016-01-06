@@ -2,7 +2,7 @@ module Docs
   class Elixir < UrlScraper
     self.name = 'Elixir'
     self.type = 'elixir'
-    self.version = '1.1.1'
+    self.version = '1.2.0'
     self.base_url = 'http://elixir-lang.org/docs/stable/'
     self.root_path = 'elixir/extra-api-reference.html'
     self.initial_paths = %w(
